@@ -5,7 +5,7 @@ import Europe from "@/assets/images/europe.png"
 
 export default function Home() {
   return (
-    <div className="flex h-screen bg-amber-100 p-4">
+    <div className="flex min-h-screen bg-amber-100 p-4">
       <DraggablePhoto
         initialTop="5vh"
         initialRight="10vw"
@@ -34,7 +34,7 @@ export default function Home() {
           <p>
             from
           </p>
-          <h1 className="text-5xl font-extrabold text-stone-800">
+          <h1 className="text-3xl sm:text-5xl font-extrabold text-stone-800">
             riya + caelin
           </h1>
         </header>
@@ -60,7 +60,10 @@ export default function Home() {
           <br/>
 
           We are thankful for those of you who are close by and so excited for those of you who are far doing cool
-          things. Let us know what you're up to! Love, Riya & Caelin
+          things. Let us know what you&#39;re up to!
+          <br/>
+          <br/>
+          Love, Riya & Caelin
         </p>
 
       </div>
