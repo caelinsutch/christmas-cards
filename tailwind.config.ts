@@ -8,6 +8,12 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        body: ["var(--font-space-grotesk)", "sans-serif"],
+        heading: ["var(--font-space-grotesk)", "sans-serif"],
+        sans: ["var(--font-space-grotesk)", "sans-serif"],
+        chewy: ["var(--font-chewy)", "cursive"],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
