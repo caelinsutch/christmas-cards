@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2efd2d96-5903-4135-a996-22062cabd9ee" name="Changes" comment="">
+    <list default="true" id="2efd2d96-5903-4135-a996-22062cabd9ee" name="Changes" comment="Fix OG">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/draggable-photo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/draggable-photo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,19 +62,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735082728469</updated>
-      <workItem from="1735082730954" duration="2876000" />
+      <workItem from="1735082730954" duration="3558000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix type and mobile">
+      <option name="closed" value="true" />
+      <created>1735157826254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735157826254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix type and mobile" />
+    <MESSAGE value="Fix OG" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix OG" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/app/layout.tsx</url>
-          <line>29</line>
+          <line>30</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>

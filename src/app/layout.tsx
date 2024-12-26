@@ -15,7 +15,7 @@ const chewy = Chewy({
 
 
 export const metadata: Metadata = {
-  title: "Riya + Caelin Christmas 22024",
+  title: "Riya + Caelin Christmas 2024",
   description: "For our friends  + family",
 };
 
